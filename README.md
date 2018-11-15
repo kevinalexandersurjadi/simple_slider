@@ -11,7 +11,7 @@ dependencies:
     simple_slider:
         git:
             url: https://github.com/kevinalexandersurjadi/simple_slider.git
-            ref: 0.0.0
+            ref: 0.0.1
 
 ```
 2. Import package
